@@ -4,7 +4,7 @@
 #### Project Title: GenderAgeDetector
 #### Date: June 22, 2023
 
-This is a Python program that detects faces in an image or video stream and then predicts the gender and age of each detected face using pre-trained deep learning models. It performs real-time age and gender detection on faces in an image or video stream and provides visual feedback by highlighting faces and displaying the predicted age and gender on the video feed.
+This is a Python program that detects faces in an image and then predicts the gender and age of each detected face using pre-trained deep learning models. It performs real-time age and gender detection on faces in an image or video stream and provides visual feedback by highlighting faces and displaying the predicted age and gender on the video feed.
 
 Upon running the program, the program will create a new window displaying the image as chosen in the command line, with a square displaying the face in the image as well as the predicted gender and age. The gender and age will also be output to the command line.
 
